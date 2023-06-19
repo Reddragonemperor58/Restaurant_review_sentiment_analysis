@@ -19,3 +19,7 @@ With the preprocessed and vectorized dataset, we can proceed to train our predic
 
 #### Analysis and Conclusion: 
 After training the model, we will evaluate our model's performance based on accuracy. This analysis will allow us to optimize the model by changing various hyperparameters to get the best predictive performance for sentiment analysis on the restaurant reviews.
+
+
+### Saved Model:
+The file named "rr_model.sav" is the RandomForestClassifier model that has been saved using joblit after training a model in my lappy😊
