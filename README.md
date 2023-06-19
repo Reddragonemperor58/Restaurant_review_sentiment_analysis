@@ -22,4 +22,4 @@ After training the model, we will evaluate our model's performance based on accu
 
 
 ### Saved Model:
-The file named "rr_model.sav" is the RandomForestClassifier model that has been saved using joblit after training a model it my lappy😊
+The file named "rr_model.sav" is the RandomForestClassifier model that has been saved using joblit after training it😊. So this model can be used directly for predictions as it has already been trained
